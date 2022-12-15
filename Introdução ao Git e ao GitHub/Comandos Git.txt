@@ -1,0 +1,14 @@
+Comandos para um bom desempenho no terminal
+
+cd - Pasta;
+dir - Listar os diretórios;
+mk dir - Criar diretórios;
+del/rmdir - Deletar arquivos de pasta/deletar pasta;
+cd.. - Voltar;
+(Seta para cima) - Voltar o que fez por último;
+cls - Limpar terminal;
+tab - Completar nome da pasta;
+git init - Iniciar o repositório do gi;
+git add - mover arquivos e dar inicio ao versionamento;
+git commit - criar commit;
+ctrl L - Limpar tudo 
